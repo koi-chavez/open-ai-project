@@ -54,11 +54,11 @@ function App() {
  
  const ResponseUI = () => {
    return (
-     <ul>
+     <div className='listContainer'>
        {
      promptArray.slice(0).reverse().map((item, index) => {
        return (
-         <li key={index}>
+         <div className='list' key={index}>
            <div className='listItem'>
              <strong>Prompt: </strong>
              {item}
@@ -67,12 +67,12 @@ function App() {
              <strong>Response: </strong>
              {responseArray[promptArray.indexOf(item)]}
            </div>
-         </li>
+         </div>
        );
      }
      )
    }
-     </ul>
+     </div>
    )
  }
  

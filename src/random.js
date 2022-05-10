@@ -448,7 +448,7 @@ const randomQuestion = {
             "category": "Entertainment: Video Games",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "The walls of the Goldenrod City Gym in 'Pok&eacute;mon Gold and Silver' are arranged in the shape of which Pok&eacute;mon?",
+            "question": "The walls of the Goldenrod City Gym in 'Pokémon Gold and Silver' are arranged in the shape of which Pokémon?",
             "correct_answer": "Clefairy",
             "incorrect_answers": [
             "Bulbasaur",
@@ -496,7 +496,7 @@ const randomQuestion = {
             "category": "Entertainment: Books",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "The Harry Potter series of books, combined, are over 1,000,000 words in length.",
+            "question": "True or False? The Harry Potter series of books, combined, are over 1,000,000 words in length.",
             "correct_answer": "True",
             "incorrect_answers": [
             "False"
@@ -530,7 +530,7 @@ const randomQuestion = {
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which of the following films was NOT directed by Quentin Tarantino?",
+            "question": "Which of the following films was NOT directed by Quentin Tarantino? From Dusk till Dawn, Reservoir Dogs, Pulp Fiction",
             "correct_answer": "From Dusk till Dawn",
             "incorrect_answers": [
             "Jackie Brown",
@@ -566,7 +566,7 @@ const randomQuestion = {
             "category": "Entertainment: Video Games",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "In the Resident Evil series, Leon S. Kennedy is a member of STARS.",
+            "question": "True or False? In the Resident Evil series, Leon S. Kennedy is a member of STARS.",
             "correct_answer": "False",
             "incorrect_answers": [
             "True"

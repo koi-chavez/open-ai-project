@@ -1,18 +1,21 @@
-ul {
-  list-style-type: none;
-  width: 600px;
-  margin: 0 auto;
- }
   
- li {
+  
+ .App {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  justify-content: center;
+ }
+
+ .list {
   margin: 10px 0;
   text-align: left;
   padding: 10px 10px;
   background-color: #DD7236;
  }
-  
- .App {
-  text-align: center;
+ 
+ .listContainer {
+  width: 600px;
   margin: 0 auto;
  }
   
@@ -31,7 +34,7 @@ ul {
   padding: 5px 10px;
   margin: 0 5px;
  }
- 
+
  .textBox {
   word-wrap: break-word;
   word-break: break-all;
