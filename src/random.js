@@ -64,7 +64,7 @@ const randomQuestion = {
             "category": "History",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "The two atomic bombs dropped on Japan by the United States in August 1945 were named 'Little Man' and 'Fat Boy'.",
+            "question": "True or False? The two atomic bombs dropped on Japan by the United States in August 1945 were named 'Little Man' and 'Fat Boy'.",
             "correct_answer": "False",
             "incorrect_answers": [
             "True"
@@ -74,7 +74,7 @@ const randomQuestion = {
             "category": "General Knowledge",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "Gumbo is a stew that originated in Louisiana.",
+            "question": "True or False? Gumbo is a stew that originated in Louisiana.",
             "correct_answer": "True",
             "incorrect_answers": [
             "False"
@@ -84,7 +84,7 @@ const randomQuestion = {
             "category": "Geography",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "San Marino is the only country completely surrounded by another country.",
+            "question": "True or False? San Marino is the only country completely surrounded by another country.",
             "correct_answer": "False",
             "incorrect_answers": [
             "True"
@@ -94,7 +94,7 @@ const randomQuestion = {
             "category": "History",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "In World War II, Hawker Typhoons served in the Pacific theater.",
+            "question": "True or False? In World War II, Hawker Typhoons served in the Pacific theater.",
             "correct_answer": "False",
             "incorrect_answers": [
             "True"
@@ -150,7 +150,7 @@ const randomQuestion = {
             "category": "Entertainment: Japanese Anime & Manga",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "Gosho Aoyama Made This Series: (Detective Conan / Case Closed!)",
+            "question": "True or False? Gosho Aoyama Made This Series: (Detective Conan / Case Closed!)",
             "correct_answer": "True",
             "incorrect_answers": [
             "False"
@@ -232,7 +232,7 @@ const randomQuestion = {
             "category": "Entertainment: Video Games",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "In Terraria, you can craft the Cell Phone pre-hardmode.",
+            "question": "True or False? In Terraria, you can craft the Cell Phone pre-hardmode.",
             "correct_answer": "True",
             "incorrect_answers": [
             "False"
@@ -254,7 +254,7 @@ const randomQuestion = {
             "category": "Vehicles",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Bugatti was an Italian car manufacturer.",
+            "question": "True or False? Bugatti was an Italian car manufacturer.",
             "correct_answer": "False",
             "incorrect_answers": [
             "True"
@@ -264,7 +264,7 @@ const randomQuestion = {
             "category": "Sports",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+            "question": "True or False? In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
             "correct_answer": "False",
             "incorrect_answers": [
             "True"
@@ -334,7 +334,7 @@ const randomQuestion = {
             "category": "History",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "Kublai Khan is the grandchild of Genghis Khan?",
+            "question": "Is Kublai Khan is the grandchild of Genghis Khan?",
             "correct_answer": "True",
             "incorrect_answers": [
             "False"
@@ -356,7 +356,7 @@ const randomQuestion = {
             "category": "Entertainment: Television",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Klingons once had a period of Democracy in their history, they referred to it as the 'Dark Times'.",
+            "question": "True or False? Klingons once had a period of Democracy in their history, they referred to it as the 'Dark Times'.",
             "correct_answer": "True",
             "incorrect_answers": [
             "False"
@@ -378,7 +378,7 @@ const randomQuestion = {
             "category": "Entertainment: Video Games",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "'Metal Gear Solid 3: Snake Eater' was released in 2004.",
+            "question": "True or False? 'Metal Gear Solid 3: Snake Eater' was released in 2004.",
             "correct_answer": "True",
             "incorrect_answers": [
             "False"
@@ -424,7 +424,7 @@ const randomQuestion = {
             "category": "History",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which of the following was not one of Joseph Stalin's ten blows during World War II?",
+            "question": "What was one of Joseph Stalin's ten blows during World War II?",
             "correct_answer": "Vistula-Oder Offensive",
             "incorrect_answers": [
             "Crimean Offensive",
@@ -542,7 +542,7 @@ const randomQuestion = {
             "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
+            "question": "Which awards do Matt Stone and Trey Parker NOT have?",
             "correct_answer": "Oscar",
             "incorrect_answers": [
             "Emmy",
