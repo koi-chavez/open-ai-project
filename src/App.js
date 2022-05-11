@@ -54,16 +54,16 @@ function App() {
  
  const ResponseUI = () => {
    return (
-     <div className='listContainer'>
+     <div className="listContainer">
        {
      promptArray.slice(0).reverse().map((item, index) => {
        return (
-         <div className='list' key={index}>
-           <div className='listItem'>
+         <div className="list" key={index}>
+           <div className="listItem">
              <strong>Prompt: </strong>
              {item}
            </div>
-           <div className='listItem'>
+           <div className="listItem">
              <strong>Response: </strong>
              {responseArray[promptArray.indexOf(item)]}
            </div>
@@ -84,7 +84,7 @@ function App() {
        <input type="text" id="text-input" className="textBox" onChange={ (event) => setPromptValue(event.target.value) }/>
        <br />
        <input type="submit" value="Submit" onClick={handleSubmit} className="button" />
-       <button className='button' onClick={choosePrompt}>Pick a Prompt for me</button>
+       <button className="button" onClick={choosePrompt}>Pick a Prompt for me</button>
      </form>
     
      <h1> Responses </h1>
